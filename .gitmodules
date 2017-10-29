@@ -1,0 +1,3 @@
+[submodule "childTest"]
+	path = childTest
+	url = https://github.com/caomengsi/childTest.git
